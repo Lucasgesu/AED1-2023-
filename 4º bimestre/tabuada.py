@@ -1,0 +1,22 @@
+N = int(input())
+if (2 < N < 1000):
+    r1 =  N * 1
+    r2 = N * 2
+    r3 = N * 3
+    r4 = N * 4
+    r5 = N * 5
+    r6 = N * 6
+    r7 = N * 7
+    r8 = N * 8
+    r9 = N * 9
+    r10 = N * 10
+print("1 x", N, "=", r1)
+print("2 x", N, "=", r2)
+print("3 x", N, "=", r3)
+print("4 x", N, "=", r4)
+print("5 x", N, "=", r5)
+print("6 x", N, "=", r6)
+print("7 x", N, "=", r7)
+print("8 x", N, "=", r8)
+print("9 x", N, "=", r9)
+print("10 x", N, "=", r10)

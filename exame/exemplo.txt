@@ -1,0 +1,6 @@
+Python é uma linguagem de propósito geral de alto nível,
+multiparadigma, suporta o paradigma orientado a objetos,
+imperativo, funcional e procedural. Possui tipagem dinâmica e uma
+de suas principais características é permitir a fácil leitura do
+código e exigir poucas linhas de código se comparado ao mesmo
+programa em outras linguagens.

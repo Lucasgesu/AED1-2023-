@@ -1,0 +1,14 @@
+procedure BubbleSort (A : lista de itens ordenaveis) defined as:
+    do 
+        trocado := false
+        for each i in 0 to lenght( A ) - 2 do:
+        // verficar se os elementos estão na ordem certa
+        if A[ i ] > A [ i + 1 ] then
+            // trocar elementos de lugar 
+            trocar( A[ i ], A[ I + 1] )
+            trocado := true
+        end if
+    end for
+// enquanto houver elementos sendo reordenados
+    while trocado
+end procedure
